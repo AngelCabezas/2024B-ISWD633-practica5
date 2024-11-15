@@ -48,6 +48,7 @@ docker compose ps
 ***
 ### COMPLETAR CON UNA CAPTURA DE PANTALLA DEL LISTADO DE LOS CONTENEDORES EN EJECUCIÓN
 ![Ejercicio docker compose](imagenes/contenedores_Ejecucion.PNG)
+![Ejercicio docker compose](imagenes/contenedores_Ejecucion1.PNG)
 ***
 ### Detener y eliminar los contenedores definidos en el archivo
 ```
